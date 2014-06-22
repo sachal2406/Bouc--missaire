@@ -1,0 +1,9 @@
+name: BoucEmissaire
+main: me.sachal2406.boucemissaire.Main
+author: sachal2406
+version: 1.0
+commands:
+  be:
+    usage: /<command>
+  boucemissaire:
+    usage: /<command>  
